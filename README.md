@@ -1,4 +1,4 @@
-<h1>Building a simple Office Network, using Cisco Packet Tracer</h1>
+<h1>Building a simple Office Network using Cisco Packet Tracer</h1>
 
 <h2>OBJECTIVES OF PROJECT</h2>
 
